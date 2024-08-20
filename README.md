@@ -42,8 +42,7 @@
 
 ## Installation & Setup
 
-After obtaining the files in repository or cloning the repository(`git clone https://github.com/alper-sayin/Online-Auction-Hub.git`) to desired folder, setting up virtual environment and satisfying the requirements([requirements.txt](requirements.txt)).
-Open the terminal(.venv) in your IDE, you should apply:
+After obtaining the files in repository or cloning the repository(`git clone https://github.com/alper-sayin/Online-Auction-Hub.git`) to desired folder, setting up virtual environment and satisfying the requirements([requirements.txt](requirements.txt)), open the terminal(.venv) in your IDE, you should apply:
 
 - `python manage.py makemigrations auctions` 
 - `python manage.py migrate`
