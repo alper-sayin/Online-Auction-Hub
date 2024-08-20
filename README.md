@@ -48,7 +48,7 @@ After opening the terminal(.venv) in your IDE, you should apply:
 - `python manage.py makemigrations auctions` 
 - `python manage.py migrate`
 - `python manage.py create_test_data`
-And our database is ready with test datas and also users(user0, user1, user2, user3, user4-both passwords are “password” You can see the details in .[create_test_data.py](auctions/management/commands/create_test_data.py) and also data details in test_data.json file which automatically created in your project directory.
+- And our database is ready with test datas and also users(user0, user1, user2, user3, user4-both passwords are “password” You can see the details in .[create_test_data.py](auctions/management/commands/create_test_data.py) and also data details in test_data.json file which automatically created in your project directory after execution
 - `python manage.py runserver`
  And then server is ready on http://127.0.0.1:8000 
 
