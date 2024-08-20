@@ -17,10 +17,10 @@
 -	Product listing and management
 -	Advanced search & filtering: Finding items by category, price range, or keywords. 
 -	Bidding system 
-- User dashboard 
- -	Favorite products 
- -	Products on sale 
- -	Submitted bids 
+ - User dashboard 
+ 	Favorite products 
+ 	Products on sale 
+ 	Submitted bids 
 - Responsive design for desktop 
 - Bootstrap-based UI with custom styling
 
