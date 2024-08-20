@@ -15,7 +15,7 @@
 
 -	User authentication (login, logout, signup) 
 -	Product listing and management
--	Advanced Search & Filtering: Finding items by category, price range, or keywords. 
+-	Advanced search & filtering: Finding items by category, price range, or keywords. 
 -	Bidding system 
 - User dashboard 
  -	Favorite products 
@@ -29,9 +29,8 @@
 
 - Python 
 - Django 
-- HTML/CSS 
+- HTML/CSS/JavaScript
 - Bootstrap 5
-- JavaScript
 - SQLite
 
 ## Project Structure
