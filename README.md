@@ -13,7 +13,8 @@
 
    ## Key Features
 
--	User authentication (login, logout, signup) 
+-	User authentication (login, logout, signup)
+-	Back-end & front-end validations for data integrity, user privacy and auction rules.
 -	Product listing and management
 -	Advanced search & filtering: Finding items by category, price range, or keywords. 
 -	Bidding system 
