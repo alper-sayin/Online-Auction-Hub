@@ -53,7 +53,45 @@ After obtaining the files in repository or cloning the repository(`git clone htt
 
  ## Usage & Screenshots
 
+Home
+![Description](images/home.PNG)
+
+Register for an account or log in if you already have one.
+
+![Description](images/signup.PNG)
+
+![Description](images/login.PNG)
+
+Browse items or use the search functionality to find specific auctions. 
+
+![Description](images/product_listing.PNG)
  
+![Description](images/pagination.PNG)
+
+![Description](images/filtering.PNG)
+
+![Description](images/filtering2.PNG)
+
+
+Place bids on items you're interested in. 
+
+![Description](images/bidding.PNG)
+
+Create your own auction listings to sell items. 
+
+![Description](images/creating_product.PNG)
+
+Manage your bids and listings from your user dashboard.
+
+![Description](images/user_dashboard.PNG)
+
+![Description](images/favorites.PNG)
+
+![Description](images/submitted_bids.PNG)
+
+
+
+
 
 
 
